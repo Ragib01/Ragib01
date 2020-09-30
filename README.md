@@ -5,11 +5,14 @@ I am a self-motivated computer programmer || technology enthusiast || Data is th
 [![gmail badge](https://img.shields.io/badge/twitter-ragibsh.me@gmail.com-%231FA1F1?style=flat&logo=gmail&logoColor=red)](mailto:ragibsh.me@gmail.com)
 [![twitter badge](https://img.shields.io/badge/twitter-@ragib_sh-%231FA1F1?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/iam_himanshu0)
 [![dev.to badge](https://img.shields.io/badge/linkedin-ragib_shshriar-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ragib-shahriar-9b1072164/)
- 🎓Skills👇👇
- 👉  Pogramming Language : Python, PHP, Javascript, Matlab
- 👉  Frameworks : Flask, Django, Plotly Dash, Laravel, Vue.js, Nuxt.js, Bootstrap
- 💥  Data Science: data analysis, machine learning, deep learning, Natural Language Processing, computer vision
- ❄️ Pandas, Scikit-learn, TensorFlow, Keras, NLTK, Spacy
+ </br>
+🎓Skills👇👇
+
+ 👉  Pogramming Language : Python, PHP, Javascript, Matlab </br>
+ 👉  Frameworks : Flask, Django, Plotly Dash, Laravel, Vue.js, Nuxt.js, Bootstrap </br>
+ 💥  Data Science: data analysis, machine learning, deep learning, Natural Language Processing, computer vision </br>
+ ❄️ Pandas, Scikit-learn, TensorFlow, Keras, NLTK, Spacy </br> </br>
+
  👨‍💻 All of my projects are available 👉  [here](https://github.com/Ragib01?tab=repositories)
 
 

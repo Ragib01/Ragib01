@@ -9,15 +9,19 @@ I am a self-motivated computer programmer || technology enthusiast || Software E
 🎓Skills👇👇
 
  👉  Pogramming Language : Python, PHP, Javascript, Lua, Matlab 
+ 
  👉  Frameworks : Laravel, Django, React.js 
+ 
  💥  Data Science: data analysis, machine learning, deep learning, Natural Language Processing, computer vision 
+ 
  ❄️ Others: Docker, Linux, AWS, Nginx, Nagios, Apache Solr
  
  👨‍💻 All of my projects are available 👉  [here](https://github.com/Ragib01?tab=repositories)
 
 
 ### My GitHub Status 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragib01) ![Github stats](https://github-readme-stats.vercel.app/api?username=Ragib01&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragib01)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ragib01&show_icons=true)
 
 ### Highlights 
 

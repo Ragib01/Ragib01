@@ -28,6 +28,7 @@ I am a self-motivated computer programmer || technology enthusiast || Software E
 
 ### Highlights 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ragib01&repo=datatable-multi-filtering)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ragib01&repo=django_log_tracker)](https://github.com/Ragib01/django_log_tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ragib01&repo=datatable-multi-filtering)](https://github.com/Ragib01/datatable-multi-filtering)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ragib01&repo=video-streaming)](https://github.com/Ragib01/video-streaming)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ragib01&repo=django_log_tracker)](https://github.com/anuraghazra/github-readme-stats)
